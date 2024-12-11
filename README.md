@@ -1,2 +1,2 @@
 # StudySync
-#javaScript practice
+# HTML, CSS practice
